@@ -1,10 +1,10 @@
-# VORTEX
+# VortexGPT
 
-VORTEX provides free access to text and image generation models.
+VortexGPT provides free access to text and image generation models.
 
 ## Getting Started:
 
-    python -m pip install -U VORTEX
+    python -m pip install -U VortexGPT
 
 Join my [Discord server](https://discord.gg/hf99YvT8qX ) for live chat, support, or if you have any issues with this package.
 
@@ -32,7 +32,7 @@ Join my [Discord server](https://discord.gg/hf99YvT8qX ) for live chat, support,
 **Async:**
 
 ```python
-from VORTEX import AsyncClient
+from VortexGPT import AsyncClient
 from asyncio import run
 
 
@@ -52,7 +52,7 @@ run(main())
 **Non-Async:**
 
 ```python
-from VORTEX import Client
+from VortexGPT import Client
 
 while True:
     prompt = input("👦: ")
@@ -68,7 +68,7 @@ while True:
 **Async:**
 
 ```python
-from VORTEX import AsyncClient
+from VortexGPT import AsyncClient
 from PIL import Image
 from io import BytesIO
 from asyncio import run
@@ -91,7 +91,7 @@ run(main())
 **Non-Async:**
 
 ```python
-from VORTEX import Client
+from VortexGPT import Client
 from PIL import Image
 from io import BytesIO
 
