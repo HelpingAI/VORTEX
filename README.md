@@ -18,7 +18,7 @@ Join my [Discord server](https://discord.gg/hf99YvT8qX ) for live chat, support,
 | falcon_40b   | [gpt-gm.h2o.ai](https://gpt-gm.h2o.ai/)               |
 | prodia       | [prodia.com](https://prodia.com/)                     |
 | pollinations | [pollinations.ai](https://pollinations.ai/)           |
-
+| more         | comming soon                                          |
 ## Support this repository:
 
 -   🎉 **Join my Discord Server:** Chat with me and others. [Join here](https://discord.gg/hf99YvT8qX ):
