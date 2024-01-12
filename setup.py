@@ -8,7 +8,7 @@ setup(
     description="VORTEX provides free access to text and image generation models.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/Ruu3f/freeGPT",
+    url="https://github.com/HelpingAI/VORTEX",
     author="OEvortex",
     license="GPLv3",
     keywords=[
